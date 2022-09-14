@@ -1,0 +1,22 @@
+.fields{
+    margin: 10px 0px 10px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 100px;
+}
+
+.Final{
+    margin: 100px 100px 100px 100px;
+}
+label{
+    margin-right: 100px;
+}
+
+input{
+    padding: 8px;
+    margin: 12px;
+    width: 200px;
+}

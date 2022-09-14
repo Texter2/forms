@@ -1,0 +1,27 @@
+.content-data-table {
+    background-color: #fff;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+}
+
+.report-listing table thead th {
+    color: #1570B1;
+}
+
+.paid-free-table tr td {
+    padding: 7px 6px 2px 9px;
+}
+
+.btn-view-more {
+    background-color: #1570B1;
+    color: #fff;
+    border-radius: 50px;
+    padding: 3px 12px;
+}
+
+.content-link {
+    color: black;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #c7fcdc;
+}

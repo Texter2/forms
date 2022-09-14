@@ -1,0 +1,185 @@
+.rad-body-wrapper {
+    position: absolute;
+    left: 250px;
+    top: 75px;
+    width: auto;
+    right: 0;
+    transition: all .2s ease-in-out;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.report-info {
+    padding-top: 12px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.font-16 {
+    margin-top: 10px;
+    color: #fff; 
+    margin-left: 12px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.bg-green {
+    background: yellowgreen;
+}
+
+.bg-pink {
+    background: #ff627c;
+}
+
+.bg-cyan {
+    background-color: #1fcf9b;
+}
+
+.bg-blue {
+    background-color: #208aff;
+}
+
+.header-icon-bgcss {
+    padding: 15px;
+    position: absolute;
+    top: -15px;
+    left: 40px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 1px 1px #aaa;
+}
+
+.paid-data-list {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+    background-color: #fff;
+    padding: 0px 0px 30px;
+    border-radius: 6px;
+}
+
+.table-header-div {
+    background: #013070;
+    padding: 10px 16px;
+    color: #fff;
+    border-radius: 6px 6px 0px 0px;
+    box-shadow: 0px 2px 3px 1px #aaa;
+}
+
+.table-header-div h5 {
+    text-transform: uppercase;
+}
+
+.font-19 {
+    font-size: 19px;
+}
+
+.paid-data-inner-div {
+    padding: 0px 30px;
+}
+
+.paid-free-table thead tr th {
+    border-top: 1px solid transparent !important;
+}
+
+.paid-data-list p a {
+    color: #000;
+}
+
+.font-weight600 {
+    font-weight: 600;
+}
+.font-20 {
+    font-size: 20px;
+}
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+
+.w-28 {
+    max-width: 28%!important;
+}
+
+.green-box {
+    background-color: #91C63E;
+}
+
+.orange-box {
+    background-color: #EE5022;
+}
+
+.oblien-box {
+    background-color: #8E278B;
+}
+
+.counting-box {
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+    position: relative;
+    height: 83px;
+}
+
+.bg-orange-icon{
+    background-color: #AC3715;
+}
+
+.bg-green-icon {
+    background-color: #608f15;
+}
+
+.bg-olien-icon {
+    background-color: #D54DD1;
+}
+
+.mt-4, .my-4 {
+    margin-top: 1.5rem!important;
+}
+.justify-content-between {
+    -webkit-box-pack: justify!important;
+    -ms-flex-pack: justify!important;
+    justify-content: space-between!important;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.header-circle {
+    padding: 15px;
+    position: absolute;
+    top: 10px;
+    left: 35px;
+    border-radius: 100px;
+    width: 60px;
+    height: 60px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.counter-count{
+    margin-bottom: 0rem; font-size:42px ;color: #fff;
+}
+
+.counting-box .header-circle i{
+    font-size: 28px;
+    color: #fff;
+}
+
